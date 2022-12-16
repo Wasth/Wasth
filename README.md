@@ -3,7 +3,6 @@
 ### ✨ Python
 ### ✨ Django
 ### ✨ FastAPI
-### ✨ Flask
 
 <!--
 **Wasth/Wasth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
